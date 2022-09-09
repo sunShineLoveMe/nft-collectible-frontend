@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+备注：
+1. 本项目是建立一个简易的页面，通过让用户将metamask钱包链接到网站上
+2. 进行必要的验证之后，允许用户调用mintNft函数进行支付并Mint一个nft.
+3. 本项目的智能合约是前一个git 仓库的合约，https://github.com/sunShineLoveMe/nft-collectible
+4. 也可以直接通过goerli测试网来合约地址：https://goerli.etherscan.io/address/0xb29853a8d4fd0ba11b47fd3d6199753a635aa3ef
+5. 项目后期不定期完善。。。
